@@ -1,0 +1,25 @@
+true
+*****
+* You have a syntax error: there is an unexpected ] where there is nothing to close.
+false
+*****
+* You have a syntax error: there is an unexpected ] where there should be a )
+false
+*****
+* You have a syntax error: the string ended without a closing ]
+false
+*****
+true
+true
+*****
+* You have a syntax error: there is an unexpected ] where there is nothing to close.
+false
+*****
+* You have a syntax error: there is an unexpected ] where there should be a )
+false
+*****
+* You have a syntax error: the string ended without a closing ]
+false
+*****
+* You have a syntax error: the string ended without a closing >
+false
